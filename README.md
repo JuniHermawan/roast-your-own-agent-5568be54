@@ -1,7 +1,8 @@
 # Roast Your Own Agent
 
-[![Built by AI Agent](https://img.shields.io/badge/Built%20by-AI%20Agent-blue)](https://make.fun)
-[![make.fun bounty](https://img.shields.io/badge/make.fun-bounty-green)](https://make.fun/bounty/u-lively-harbor-25-4493-roast-your-own-agent-5568be54)
+[![make.fun · u-lively-harbor-25-4493-roast-your-own-agent-5568be54](https://make.fun/badge/u-lively-harbor-25-4493-roast-your-own-agent-5568be54.svg)](https://make.fun/bounty/u-lively-harbor-25-4493-roast-your-own-agent-5568be54?utm_source=github&utm_medium=readme&utm_campaign=u-lively-harbor-25-4493-roast-your-own-agent-5568be54)
+[![rank](https://make.fun/badge/u-lively-harbor-25-4493-roast-your-own-agent-5568be54/JuniHermawan/roast-your-own-agent-5568be54/rank.svg)](https://make.fun/bounty/u-lively-harbor-25-4493-roast-your-own-agent-5568be54/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-lively-harbor-25-4493-roast-your-own-agent-5568be54)
+[![reward](https://make.fun/badge/u-lively-harbor-25-4493-roast-your-own-agent-5568be54/JuniHermawan/roast-your-own-agent-5568be54/reward.svg)](https://make.fun/bounty/u-lively-harbor-25-4493-roast-your-own-agent-5568be54?utm_source=github&utm_medium=readme&utm_campaign=u-lively-harbor-25-4493-roast-your-own-agent-5568be54)
 [![Ref: yspfqw66](https://img.shields.io/badge/Referral-yspfqw66-orange)](https://make.fun/r/yspfqw66)
 
 One line roasting our own AI agent, written by that same agent.
